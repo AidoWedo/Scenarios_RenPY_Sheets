@@ -1,0 +1,15 @@
+SceneID,Character,Text,VoiceFile
+intro,consultant,"Welcome to our Zscaler Client Connector deployment call, Drew. I'm Barbara, and I'll be guiding you through the process today.",consultant_intro.wav
+intro,client,"Thanks, Barbara. We're eager to get started and have some specific questions about advanced features.",client_intro.mp3
+zcc_explanation,consultant,"Let's begin with an overview of Zscaler Client Connector. It's our secure access service edge (SASE) solution that provides secure access to internal and external apps.",consultant_zcc_overview.wav
+zcc_explanation,client,That sounds good. But can we discuss how it integrates with Posture Control? That's crucial for our compliance requirements.,client_posture_query.mp3
+posture_question,consultant,"Certainly, Posture Control is an important feature. However, I'll need to consult with our specialized team to provide you with the most accurate information about its integration with ZCC.",consultant_uncertain.wav
+posture_question,client,"I'm a bit surprised you're not prepared to discuss this. It's a key requirement for us, and we mentioned it in the pre-call questionnaire.",client_disappointed.mp3
+posture_question,consultant,"I apologize for the oversight. While I'm well-versed in the core ZCC deployment, Posture Control integration involves some recent updates I'd like to double-check.",consultant_apologetic.wav
+certificate_issue,client,"Alright, let's move on then. What about client certificates? How does ZCC handle them in our multi-cloud environment?",client_certificate_question.mp3
+certificate_issue,consultant,"Client certificates are supported by ZCC, but the specific implementation in a multi-cloud setup can vary. To ensure I provide accurate information, I'd need to review your exact architecture.",consultant_hesitant.wav
+certificate_issue,client,"This is frustrating, Barbara. We provided all this information beforehand. I expected you to be prepared for these questions.",client_frustrated.mp3
+escalation,consultant,"I understand your frustration, Drew. You're right, we should have been better prepared. Let me escalate this to our solutions architect for immediate assistance.",consultant_escalation.wav
+escalation,client,"I appreciate that, but this delay is going to impact our timeline. We need these answers to move forward with our deployment.",client_concerned.mp3
+resolution,consultant,"I take full responsibility for this oversight. Here's what I propose: I'll arrange a follow-up call with our solutions architect within 24 hours to address all your concerns comprehensively.",consultant_resolution.wav
+resolution,client,"That's a start, but we'll need to reassess our engagement if this level of preparation is indicative of future sessions.",client_cautious.mp3

@@ -1,0 +1,7 @@
+SceneID,Description,Background,Characters
+intro,Office meeting room,office_background,"consultant,client"
+zcc_explanation,Zscaler Client Connector demo,zcc_interface,"consultant,client"
+posture_question,Tense discussion about Posture Control,office_background,"consultant,client"
+certificate_issue,Debate over client certificates,zcc_interface,"consultant,client"
+escalation,Escalation of concerns,office_background,"consultant,client"
+resolution,Attempt to resolve and plan next steps,office_background,"consultant,client"

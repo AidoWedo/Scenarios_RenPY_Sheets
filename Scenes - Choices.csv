@@ -1,0 +1,9 @@
+SceneID,ChoiceText,NextSceneID
+intro,Proceed with ZCC overview,zcc_explanation
+intro,Address client's specific questions,posture_question
+posture_question,Admit lack of knowledge and offer to research,certificate_issue
+posture_question,Attempt to provide a general answer,escalation
+certificate_issue,Escalate to solutions architect,escalation
+certificate_issue,Try to discuss general certificate handling,escalation
+escalation,Offer immediate escalation and follow-up,resolution
+escalation,Suggest rescheduling the entire session,resolution
