@@ -27,5 +27,6 @@ Download a version of RenPy from renypy dot org (as of writing, 8.2.3)
 Unzip the file and run the Ren'Py Launcher (.exe). I recommend that you run The Question first to make sure you can see the images/ characters and hear the sound. If you can, create a new project.
 Edit the script.rpy file (i.e. copy over the file from this GitHub repo) update the URL with your URL from the Google Sheets deployment, and launch the project
 
-![image](https://github.com/AidoWedo/Scenarios_RenPY_Sheets/assets/40786162/f5411333-206f-4ad8-9d15-929d73246627)
+![image](https://github.com/AidoWedo/Scenarios_RenPY_Sheets/assets/40786162/d3169a06-309d-42a9-bc2c-f6a2ec0e442c)
+
 
