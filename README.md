@@ -4,6 +4,7 @@ This contains several content. Example csv files for the characters, scenes, tex
 Import these into Google Sheets (ensure you choose to import and import into the existing sheet. The sheets should be named Characters, Dialogue, etc, not Scenes - Characters. The Sheet itself (the whole sheet is called Scenes) ). The Google App Script code won't work if these are not named correctly.
 ![image](https://github.com/AidoWedo/Scenarios_RenPY_Sheets/assets/40786162/967ccfd9-77bb-4b09-8071-ecafd4411f45)
 
+Ensure all the images and mp3 audio files are available and put them in the RenPY game/audio or game/image directories and ensure the names are exactly matched 
 
 ## Google Sheets App Script Code
 Extensions - App Script (copy javascript code) into the Appscript code (code.gs) and run the code to ensure no errors.
