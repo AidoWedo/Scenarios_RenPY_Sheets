@@ -32,7 +32,9 @@ Edit the script.rpy file (i.e. copy over the file from this GitHub repo) update 
 
 ## RenPy Script.rpy
 
-There is a line called fallback_story_data - if you don't update this you will get my old content - so if the scenarios don't look like what your expecting this will be why, make sure the URL for google is updated and that there aren't any errors (you can check this by running renPy and using Ctrl+O to look at the terminal while its running)
+There is a line called fallback_story_data - if you don't update this, you will get my old content - so if the scenarios don't look like what you expected, this will be why: make sure the URL for Google is updated and that there aren't any errors (you can check this by running renPy and using Ctrl+O to look at the terminal while it's running).
+
+You will want to comment out the Test Voice Playback element at some point.
 
 ## Credit
 Inspired by this post https://marcin-rybicki.medium.com/no-code-game-dev-with-google-sheet-and-no-art-department-no-code-no-art-232ccecc85be
